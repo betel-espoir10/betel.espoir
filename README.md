@@ -131,7 +131,7 @@ I am open to:
 - Collaborative open-source initiatives  
 
 📫 **Email:** espoirgonbeloum@gmail.com  
-🔗 **LinkedIn:** (https://www.linkedin.com/in/betel-espoir96/) 
+🔗 **LinkedIn:** https://www.linkedin.com/in/betel-espoir96/ 
 🔗 **Portfolio Website:** *(à ajouter)*  
 
 
